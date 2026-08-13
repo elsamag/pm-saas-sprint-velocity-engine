@@ -108,6 +108,7 @@ cd pm-saas-sprint-velocity-engine
 
 
 ### Step 2:Initialize Virtual Environment & Dependencies
+
 ```bash
 python3 -m venv venv && source venv/bin/activate
 ```
