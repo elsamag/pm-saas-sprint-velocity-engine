@@ -1,0 +1,9 @@
+{
+  "enterprise": "Elsamag IT Solutions",
+  "lead_consultant": "Samuel Chinwendu Agu",
+  "change_control_policy": {
+    "mid_sprint_injection_allowed": false,
+    "trade_off_requirement": "Mandatory 1:1 Story Point Drop",
+    "approval_gate": "Technical Project Manager & Lead Architect Signature Required"
+  }
+}
