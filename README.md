@@ -28,7 +28,7 @@ Elsamag IT Solutions deployed an integrated Technical Project Management framewo
 2. **Pillar 2 — 24-Hour Risk Escalation SLA Engine:** Implements automated tracking for sprint blockers. Unresolved impediments automatically trigger Tier 2 (Technical PM) and Tier 3 (Engineering Lead / VP) intervention within 24 hours.
 3. **Pillar 3 — Scope Guardrails & Change Governance:** Enforces zero mid-sprint scope modifications without equivalent task drop trades, shielding engineering capacity from manager overrides.
 
-##Automated Blocker Escalation Script (src/escalation_engine.py)
+## Automated Blocker Escalation Script (src/escalation_engine.py)
 
 ### Cross-Functional RACI Matrix Configuration (`src/raci_matrix_config.yaml`)
 
