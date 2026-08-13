@@ -1,0 +1,27 @@
+# Elsamag IT Solutions - RACI Matrix Configuration
+# Lead Technical Consultant: Samuel Chinwendu Agu
+raci_matrix:
+  api_specs_and_contract:
+    backend_engineering: Accountable_Responsible
+    frontend_engineering: Consulted
+    product_management: Consulted
+    product_marketing: Informed
+    technical_pm: Informed
+  blocker_resolution_sla:
+    backend_engineering: Informed
+    frontend_engineering: Informed
+    product_management: Informed
+    product_marketing: Informed
+    technical_pm: Accountable_Responsible
+  feature_launch_assets:
+    backend_engineering: Informed
+    frontend_engineering: Informed
+    product_management: Consulted
+    product_marketing: Accountable_Responsible
+    technical_pm: Informed
+  scope_guardrail_enforcement:
+    backend_engineering: Consulted
+    frontend_engineering: Consulted
+    product_management: Consulted
+    product_marketing: Informed
+    technical_pm: Accountable_Responsible
